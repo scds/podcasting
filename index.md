@@ -5,7 +5,7 @@ description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 
-<img src="assets/img/TitleSlide.jpg" alt="Workshop Title Slide" width="720">
+<img src="assets/img/TitleSlideFinal.jpg" alt="Workshop Title Slide" width="720">
 
 # Welcome to Podcasting 101
 
