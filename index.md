@@ -5,15 +5,12 @@ description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+<img src="assets/img/TitleSlide.jpg" alt="Workshop Title Slide" width="720">
 
-<!--
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
+# Welcome to Podcasting 101
 
-# Welcome to Data Visualization with Tableau. 
+Podcasts can take academic research out of the ivory tower and into the public. Learn the basics of podcasting in this web module, which moves through a podcast’s life cycle, from planning to recording to distribution.
 
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
+Proceed to the [What is a Podcast?](whatisapodcast) page to get started.
 
-Proceed to the [Preparation](preparation) page to get started.
--->
 
