@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1. Planning Your Podcast
+title: 1. Planning
 nav_order: 3
 ---
 
