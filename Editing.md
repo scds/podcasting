@@ -37,7 +37,7 @@ Links to resources in the chart:
 
 ## Learn to Edit Audio on Audacity
 
-Audacity is a free audio editing software. Because of its accessibility, it's our preferred platform. Watch the video below to learn how to use the program:
+Audacity is a free audio editing software. Because of its accessibility, it's our preferred platform. Watch the video below to learn how to use the program. Elaine will show you how to cut out unwanted noises, reduce background noise, add background music, and more. 
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://www.youtube.com/watch?v=ci3QnCj9nHc&t=64s"></iframe>
 
