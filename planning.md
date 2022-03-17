@@ -7,9 +7,9 @@ nav_order: 3
 
 # Coming up with a Topic
 
-To begin the planning process, you'll want to chose a topic.
+To begin the planning process, you'll want to chose a topic. The first step to figuring out a topic is having a good ol' brainstorming session. 
 
-The first step to figuring out a topic is having a good ol' brainstorming session. 
+<img src="assets/img/Brainstorm.jpg" alt="Artistic rendering of a brainstorm; brain and bolts of energy." width="720">
 
 Here are some prompts to get you started.
 - What do you find yourself thinking about a lot?
@@ -23,6 +23,8 @@ After you brainstorm a general topic, you will want to refine it a bit and find 
 ## Who is your Ideal Listener?
 
 Once you know your topic and angle, then you'll want to get an idea of your ideal listener. This could also be thought of as your target audience or a user persona.
+
+<img src="assets/img/IdealListener.jpg" alt="Simple drawing of a person with headphones on." width="720">
 
 Is your ideal listener an academic? A member of the general public audience? What’s the age of your listener, the gender, the education?
 
@@ -39,16 +41,27 @@ Once you have an idea of the show you want to make and your ideal listener, keep
 
 ## Planning Individual Episodes
 
+Planning a podcast means understanding the way individual segments relate to the entire show at large. Consider this chart, which breaks down the different levels of a podcast. 
+
+<img src="assets/img/Structure1.jpg" alt="Graphic that shows a Podcast at the top, then a Season, then an Episode, then a Segment at the bottom." width="720">
+
+Each podcast is made of seasons (if applicable), which are in turn composed of linked episodes. These episodes are, in turn, made up of segments. 
+
 You can think of a podcast episode’s segments the way you think about an essay. 
+
 Shows typically begin with an introduction, followed by the body of the show, then end with a conclusion. 
+
+<img src="assets/img/Structure2.jpg" alt="Graphic that shows the chart above, then zooms into the segment section and adds a further chart that reads Introduction, Body, Conclusion." width="720">
 
 You can get creative with all these elements, but the most diversity is usually found in the body, so let’s zoom in on that. 
 
 The body of a podcast may be a discussion between co-hosts, a formal interview, a debate, a scripted monologue, or something else entirely.
 
+<img src="assets/img/Structure3.jpg" alt="Graphic that shows the two charts described above, then zooms into the Body section and adds a further chart that reads subdivides the Body into bullet points including Guided discussion between co-hosts, formal interview, debate, scripted monologue, something else entirely." width="720">
+
 Within each of these formats, there are even more sub-categories. If you’re doing a guided discussion, what topics will you cover and in what order? If an interview, you have to plan your questions ahead of time and make sure they flow. If a debate, which side goes first? Will you include rebuttals? And so on and so forth.
 
-The larger point is that you can't just sit down and record. You need to draft your episode ahead of time and understand its different segments.
+The big point here is that you can't just sit down and record. You need to draft your episode ahead of time and understand its different segments and how they relate to the episode and the show at large.
 
 In other words, you need an outline and oftentimes, especially in repeated elements like an introductory greeting and a sign off, you need a script. 
 
