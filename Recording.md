@@ -10,9 +10,11 @@ Recording professional-sounding audio at home is possible! Here are some tips fr
 
 First, optimize your at-home recording set-up. Pictured here is a drawing of a typical living room. There is a window with the curtains open, a couch in front of a television, a rug on the floor, an open air vent on the wall beside the window, and some wall shelves with items on them on the other side of the window. Simple adjustments to a room like this can positively impact audio recording quality.
 
-
+<img src="assets/img/RecordingBefore.jpg" alt="Rendering of living room with TV, open curtains, a clock on the shelf." width="720">
 
 Pictured here is the same living room, but with a few adjustments made.
+
+<img src="assets/img/RecordingAfter.jpg" alt="Rendering of living room with closed curtains, unplugged TV, closed air vent, and removed clock." width="720">
 
 The curtains are closed.
 - Fabric is an excellent sound-absorber. As you close the curtains, you are creating more fabric surface area, which will reduce echo in your audio recording. Some people even like to record in their closets because of the natural insulation provided by their clothes.
