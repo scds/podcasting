@@ -1,13 +1,13 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials for the DMDS workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+Podcasting 101
+Materials for the SCDS web module: Podcasting 101  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/<<enter_site_url>>) with GitHub Pages. 
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/podcasting) with GitHub Pages. 
 
 
 Contributions by the following individuals: 
-- Workshop content created by << ENTER NAME(S) HERE >> 
-- Content edited for online use by << ENTER NAME(S) HERE >> 
-- Online pages created by << ENTER NAME(S) HERE >> 
+- Workshop content created by Veronica Litt and Elaine Westenhoefer
+- Content edited for online use by Veronica Litt and Elaine Westenhoefer
+- Online pages created by Veronica Litt
 
 
   
