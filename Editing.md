@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Editing
+title: 3. Editing
 nav_order: 5
 ---
 
