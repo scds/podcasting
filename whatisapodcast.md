@@ -11,19 +11,19 @@ nav_order: 2
 
 The OED covers the basic definition of a podcast, but the best way to learn about podcasts is to experience one. We've collected some of our favourites below: 
 
-[1619](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html)
-[99% Invisible](https://99percentinvisible.org/) 
-[According to Need](https://99percentinvisible.org/need/) 
-[Bonnets at Dawn](https://soundcloud.com/bonnetsatdawn) 
-[Ideas](https://www.cbc.ca/listen/live-radio/1-23-ideas?cmp=DM_SEM_Listen_Titles)
-[In the Dark Season 2](https://features.apmreports.org/in-the-dark/season-two/) 
-[Missing & Murdered: Finding Cleo](https://www.cbc.ca/listen/cbc-podcasts/148-missing-murdered-finding-cleo)
-[Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
-[Ologies](alieward.com/ologies) 
-[Serial Season 3](https://serialpodcast.org/) 
-[Song Exploder](https://songexploder.net/) 
-[Witch, Please](http://ohwitchplease.ca/) 
-[You Must Remember This](http://www.youmustrememberthispodcast.com/) 
+- [1619](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html)
+- [99% Invisible](https://99percentinvisible.org/) 
+- [According to Need](https://99percentinvisible.org/need/) 
+- [Bonnets at Dawn](https://soundcloud.com/bonnetsatdawn) 
+- [Ideas](https://www.cbc.ca/listen/live-radio/1-23-ideas?cmp=DM_SEM_Listen_Titles)
+- [In the Dark Season 2](https://features.apmreports.org/in-the-dark/season-two/) 
+- [Missing & Murdered: Finding Cleo](https://www.cbc.ca/listen/cbc-podcasts/148-missing-murdered-finding-cleo)
+- [Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
+- [Ologies](alieward.com/ologies) 
+- [Serial Season 3](https://serialpodcast.org/) 
+- [Song Exploder](https://songexploder.net/) 
+- [Witch, Please](http://ohwitchplease.ca/) 
+- [You Must Remember This](http://www.youmustrememberthispodcast.com/) 
 
 As you'll hear, podcasts can encompass a wide variety of material, but across subjects, podcasts use clear language and a conversational tone. They are designed to be understood by a broad group of listeners.
 
