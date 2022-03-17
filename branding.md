@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Branding
+title: 4. Branding
 nav_order: 6
 ---
 
