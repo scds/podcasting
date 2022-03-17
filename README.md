@@ -1,4 +1,3 @@
-Podcasting 101
 Materials for the SCDS web module: Podcasting 101  
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/podcasting) with GitHub Pages. 
