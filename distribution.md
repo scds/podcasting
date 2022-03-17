@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Distribution
+title: 5. Distribution
 nav_order: 7
 ---
 
