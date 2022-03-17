@@ -29,7 +29,7 @@ The OED covers the basic definition of a podcast, but the best way to learn abou
 
 As you'll hear, podcasts can encompass a wide variety of material, but across subjects, podcasts use clear language and a conversational tone. They are designed to be understood by a broad group of listeners.
 
-# Why should I Make a Podcast?
+# Why Should I Make a Podcast?
 Here are five reasons to make a podcast: 
 
 1. They're cheap
