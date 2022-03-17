@@ -1,30 +1,48 @@
 ---
 layout: default
-title: Preparation
+title: What is a Podcast?
 nav_order: 2
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
+# What is a Podcast? 
 
-<!--
+"A digital audio file of speech, music, broadcast material, etc., made available on the internet for downloading to a computer or portable media player; a series of such files, new instalments of which can be received by subscribers automatically." - Oxford English Dictionary
 
-# Workshop preparation 
+The OED covers the basic definition of a podcast, but the best way to learn about podcasts is to experience one. We've collected some of our favourites below: 
 
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
-  
-## Get the data
+[1619](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html)
+[99% Invisible](https://99percentinvisible.org/) 
+[According to Need](https://99percentinvisible.org/need/) 
+[Bonnets at Dawn](https://soundcloud.com/bonnetsatdawn) 
+[Ideas](https://www.cbc.ca/listen/live-radio/1-23-ideas?cmp=DM_SEM_Listen_Titles)
+[In the Dark Season 2](https://features.apmreports.org/in-the-dark/season-two/) 
+[Missing & Murdered: Finding Cleo](https://www.cbc.ca/listen/cbc-podcasts/148-missing-murdered-finding-cleo)
+[Nice White Parents](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
+[Ologies](alieward.com/ologies) 
+[Serial Season 3](https://serialpodcast.org/) 
+[Song Exploder](https://songexploder.net/) 
+[Witch, Please](http://ohwitchplease.ca/) 
+[You Must Remember This](http://www.youmustrememberthispodcast.com/) 
 
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
+As you'll hear, podcasts can encompass a wide variety of material, but across subjects, podcasts use clear language and a conversational tone. They are designed to be understood by a broad group of listeners.
 
-## Get the software
-This hands-on workshop uses [**Tableau**](https://www.tableau.com/), a software application for data visualization. We ask that you download Tableau in advance of the workshop to be able to participate in it to the fullest extent.
+# Why should I make one?
+Here are five reasons to make a podcast: 
 
-You have three options for downloading Tableau:
-1. [Tableau Public](https://public.tableau.com/en-us/s/) (limited version)
-2. A 14-day trial of [Tableau Desktop](https://www.tableau.com/products/trial)
-3. A 1-year instructor or student license for [Tableau Desktop for academic purposes](https://www.tableau.com/academic/teaching) 
+1. They're cheap
+- In the world of media production, podcasts are very cost-effective. All you need is a microphone, editing software, and an internet connection. Between free software packages and the microphone in your cell phone, it's very possible to make a podcast without spending money. 
 
-The three options will be discussed further during the workshop; for now, we recommend Tableau Public or the 14-day trial of Tableau Desktop. Please contact the [Sherman Centre](mailto:scds@mcmaster.ca) if you have any difficulties downloading or opening the software.
+2. They're easy to create
+- Podcasts can seem daunting, but they're much simpler than you may think. The rest of this module will show you how to make your own show in six simple steps.
 
--->
+3. They build communities
+- Podcasts can take farflung people with a shared interest and unite them into a global online community. 
+
+4. They mobilize knowledge
+- As universities prioritize knowledge mobilization and community engagement, academics are looking for ways to share their research with the public. Podcasts are a fantastic way to accomplish this crucial outreach work. 
+
+5. They're fun and fulfilling
+- Self-explanatory. Creating a podcast is engaging and enjoyable. You'll connect with kindred spirits, learn new skills, and more. 
+
+Interested? Proceed to the "Planning" page to start planning your own show. 
