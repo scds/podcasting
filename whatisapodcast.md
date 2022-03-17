@@ -11,6 +11,8 @@ nav_order: 2
 
 The OED covers the basic definition of a podcast, but the best way to learn about podcasts is to experience one. We've collected some of our favourites below: 
 
+<img src="assets/img/PodcastTiles.jpg" alt="graphic collateral for podcasts listed below arranged alphabetically in three rows." width="720">
+
 - [1619](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html)
 - [99% Invisible](https://99percentinvisible.org/) 
 - [According to Need](https://99percentinvisible.org/need/) 
