@@ -42,3 +42,5 @@ Audacity is a free audio editing software. Because of its accessibility, it's ou
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://www.youtube.com/watch?v=ci3QnCj9nHc&t=64s"></iframe>
 
 View the original [here](https://www.youtube.com/watch?v=ci3QnCj9nHc&t=64s).
+
+Now that you've edited your episode, it's time to turn to branding. 
