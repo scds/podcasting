@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Recording
+title: 2. Recording
 nav_order: 4
 ---
 
