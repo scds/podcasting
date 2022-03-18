@@ -39,7 +39,7 @@ Links to resources in the chart:
 
 Audacity is a free audio editing software. Because of its accessibility, it's our preferred platform. Watch the video below to learn how to use the program. Elaine will show you how to cut out unwanted noises, reduce background noise, add background music, and more. 
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://www.youtube.com/watch?v=ci3QnCj9nHc&t=64s"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ci3QnCj9nHc&t=64s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 View the original [here](https://www.youtube.com/watch?v=ci3QnCj9nHc&t=64s).
 
