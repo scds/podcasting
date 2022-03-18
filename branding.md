@@ -4,29 +4,22 @@ title: 4. Branding
 nav_order: 6
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+Most of the time, new listeners don’t encounter podcasts as audio. 
 
-<!--
+They encounter them visually and textually through three things:
 
-After ensuring that you've followed the [Preparatory steps](preparation), open Tableau and follow along with the workshop recording or slides. 
+1. Show Title 
+2. Description/Logline 
+- Brief 1-2 sentence description of the show’s content, format, and tone
+3. Tile Image 
+- Rhe image that will represent the show on podcatchers and distributors. Sometimes called "graphic collateral," this image includes an image, symbol, and/or font, all of which convey meaning. 
 
-## Workshop recording
+Collectively, these three things must hook listeners by conveying a tremendous amount of information (topic, tone, the show’s identity) in a very small space. The big takeaway: Don't underestimate the power of good branding. Be as intentional and thoughtful as possible when you design your show's tile iamge, logline, and title. 
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
+Let's look at an example of a podcast that branded itself well: Karina Longworth's Old Hollywood podcast, "You Must Rememebr This." Here's how "You Must Remember This" appears to someone scrolling through Apple Podcasts. 
 
-View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
+Let's break down why Longworth's branding works.
 
-
-## Workshop slides
-
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
-[Download as a PDF](https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf)
-<br>
-
-## Worksheets
-**Coming soon!**
-
-
--->
+Show Title:
+Logline:
+Tile Image: 
