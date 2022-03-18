@@ -48,9 +48,6 @@ Now that your environment is prepped, it's time to record.
 
 Watch Elaine's video to learn how to record great audio with your Android phone.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/05JJdxltrsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-https://www.youtube.com/watch?v=05JJdxltrsI
 <iframe width="420" height="315" src="https://www.youtube.com/embed/05JJdxltrsI"></iframe>
 
 View the original [here](https://www.youtube.com/watch?v=05JJdxltrsI).
