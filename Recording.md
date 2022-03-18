@@ -48,13 +48,13 @@ Now that your environment is prepped, it's time to record.
 
 Watch Elaine's video to learn how to record great audio with your Android phone.
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://www.youtube.com/watch?v=05JJdxltrsI"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05JJdxltrsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 View the original [here](https://www.youtube.com/watch?v=05JJdxltrsI).
 
 Watch Elaine's video to learn how to record great audio with your iPhone. 
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://www.youtube.com/watch?v=npc14BB_p6o"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/npc14BB_p6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 View the original [here]( https://www.youtube.com/watch?v=npc14BB_p6o).
 
@@ -63,12 +63,12 @@ View the original [here]( https://www.youtube.com/watch?v=npc14BB_p6o).
 
 Lyons New Media Centre has special audio recording booths that the McMaster community can book and use. Get a sense of the facility with this video:
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://www.youtube.com/watch?v=JMD7JJNMtes"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMD7JJNMtes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 View the original [here](https://www.youtube.com/watch?v=JMD7JJNMtes).
 
 The booths include Blue Yeti microphones. Learn to use a Blue Yeti with the video below:
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://www.youtube.com/watch?v=RftkB5g84eI"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RftkB5g84eI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 View the original [here](https://www.youtube.com/watch?v=RftkB5g84eI).
