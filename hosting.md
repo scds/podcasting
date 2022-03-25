@@ -25,4 +25,5 @@ Once your show has been approved, you can roll out your podcast by uploading mor
 
 Your hosting service will likely track downloads, listening time, and audience demographics, depending on what they offer on various tiers. 
 
+## Next Steps
 Now that your show is hosted, let's discuss how you can [build an audience.](https://scds.github.io/podcasting/outreach.html)
