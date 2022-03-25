@@ -20,7 +20,7 @@ Collectively, these three things must hook listeners by communicating a tremendo
 
 Let's look at an example of a podcast that branded itself well: Karina Longworth's Old Hollywood podcast, "You Must Rememebr This." Here's how "You Must Remember This" appears to someone scrolling through Apple Podcasts. 
 
-<img src="assets/img/Screen Shot 2022-03-18 at 3.33.59 PM.png" alt= “Screenshot of You Must Remember This’ appearance on the Apple Podcasts platform. The title is in a 1940s style font. The background is black and white draped fabric. The typography evokes early cinema. The show description reads You Must Remember This is a storytelling podcast exploring the secret and/or forgotten histories of Hollywood’s first century.” width="720">
+<img src="assets/img/YMRTScreenshot.png" alt= “Screenshot of You Must Remember This’ appearance on the Apple Podcasts platform. The title is in a 1940s style font. The background is black and white draped fabric. The typography evokes early cinema. The show description reads You Must Remember This is a storytelling podcast exploring the secret and/or forgotten histories of Hollywood’s first century.” width="720">
 
 Let's break down why Longworth's branding works.
 
@@ -32,4 +32,4 @@ Let's break down why Longworth's branding works.
 
 Take your time while branding your show. Reach out to friends and colleagues and ask for feedback on your image, logline, and title. If you don't feel that you have the skills to create an effective logo or image for your podcast, you can hire a graphic designer on a freelance basis. Many designers have portfolios on websites like [Fiverr](https://www.fiverr.com/) and [99Designs](https://99designs.ca/projects). If you work at or attend a university or college, you may want to reach out to your institution's media centre. 
 
-Once you've branded your show, it's time to host your files and distribute your podcast to major streaming services.
+Once you've branded your show, it's time to [host your files and distribute your podcast to major streaming services.](https://scds.github.io/podcasting/hosting.html)
