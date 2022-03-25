@@ -47,4 +47,4 @@ Here are five reasons to make a podcast:
 5. They're fun and fulfilling
 - Self-explanatory. Creating a podcast is engaging and enjoyable. You'll connect with kindred spirits, learn new skills, and more. 
 
-Interested? Proceed to the "Planning" page to start planning your own show. 
+Interested? Proceed to the ["Planning"](https://scds.github.io/podcasting/planning.html) page to start planning your own show. 
