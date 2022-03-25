@@ -3,10 +3,13 @@ layout: default
 title: 6. Outreach
 nav_order: 8
 ---
+## Make Your Show Stand Out
 
 There are so many podcasts these days--over 2 million podcasts and almost 50 million episodes, according Podcast Insights in December 2021. In this saturated field, how will your show find (and keep) its audience?
 
 Finding a keeping an audience is hard work. Outreach and promotion don't happen overnight. In this section, we'll discuss paid and unpaid outreach strategies, plus broader ways to envision your relationship with your listeners. 
+
+## Paid and Unpaid Outreach Strategies
 
 Below is a chart breaking down some of the ways you can promote your show, whether you have a budget or not:
 
@@ -18,6 +21,8 @@ Each point in the graph above could be expanded, but here are some top tips:
 - Many podcasts find a community hub on private Facebook groups rather than Facebook pages or comments sections on Instagram or Twitter posts; because of this, a Facebook group may be a good place to focus your social media energy
 - Another option is to build a website for your show so that you can leverage the power of SEO; however, note that effectively running a website or blog takes time 
 - Community > Competition. Similar shows are your friends, not your foes. Try to make genuine connections with your peers. 
+
+## Back to Basics
 
 However, the chart above is only 30% of the outreach pie. Around 70% of podcast listeners don’t find shows through ads or social media. They find them through recommendations from friends, family, colleagues
 
@@ -36,3 +41,5 @@ You can do this manually or use software that will automatically transcribe the 
 Auto-Transcript Options include [Microsoft Word](https://shorturl.at/clqwC) and [Otter AI](https://otter.ai/)
 
 Additionally, use a [colour contrast checker tool](https://webaim.org/resources/contrastchecker/) while creating your branding so that everyone can read and understand your logo. 
+
+Now that you know how to promote your show and keep your audience, you're in the home stretch. All that's left: Read our [five final podcasting tips.](https://scds.github.io/podcasting/Five-Final-Tips.html)
