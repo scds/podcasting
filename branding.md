@@ -4,6 +4,8 @@ title: 4. Branding
 nav_order: 6
 ---
 
+## Make a Great First Impression
+
 Most of the time, new listeners don’t encounter podcasts as audio. 
 
 They encounter them visually and textually through three things:
