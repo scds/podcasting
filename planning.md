@@ -75,4 +75,4 @@ Tips:
 - Be descriptive with your words, as this will help listeners visualize what you're talking about. 
 - Remember, podcasting is an audio medium. Be selective about topics that rely on visual media. 
 
-Now that you've planned your show, it's time to record your first episode. 
+Now that you've planned your show, it's time to [record your first episode.](https://scds.github.io/podcasting/Recording.html) 
