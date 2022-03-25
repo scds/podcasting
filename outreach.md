@@ -42,4 +42,6 @@ Auto-Transcript Options include [Microsoft Word](https://shorturl.at/clqwC) and 
 
 Additionally, use a [colour contrast checker tool](https://webaim.org/resources/contrastchecker/) while creating your branding so that everyone can read and understand your logo. 
 
+## Next Steps
+
 Now that you know how to promote your show and keep your audience, you're in the home stretch. All that's left: Read our [five final podcasting tips.](https://scds.github.io/podcasting/Five-Final-Tips.html)
