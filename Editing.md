@@ -43,4 +43,6 @@ Audacity is a free audio editing software. Because of its accessibility, it's ou
 
 View the original [here](https://www.youtube.com/watch?v=ci3QnCj9nHc&t=64s).
 
+
+## Next Steps
 Now that you've edited your episode, it's time to think about [branding your show.](https://scds.github.io/podcasting/branding.html)
