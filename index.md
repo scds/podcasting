@@ -11,6 +11,7 @@ nav_order: 1
 
 Podcasts can take academic research out of the ivory tower and into the public. Learn the basics of podcasting in this web module, which moves through a podcast’s life cycle, from planning to recording to distribution.
 
+## Next Steps
 Proceed to the [What is a Podcast?](whatisapodcast) page to get started.
 
 
