@@ -4,7 +4,7 @@ title: 5. Hosting
 nav_order: 7
 ---
 
-## Don't be Intimidated! Hosting is "Really Simple" 
+## Don't be Intimidated! Hosting is Simple
 
 Other than editing, this is the section that intimidates people most. But getting your show onto major platforms like Apple Podcasts and Spotify is easier than you think. 
 
