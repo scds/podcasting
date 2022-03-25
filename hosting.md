@@ -4,6 +4,8 @@ title: 5. Hosting
 nav_order: 7
 ---
 
+## Don't be Intimidated! Hosting is "Really Simple" 
+
 Other than editing, this is the section that intimidates people most. But getting your show onto major platforms like Apple Podcasts and Spotify is easier than you think. 
 
 Your first step is creating an RSS Feed. RSS stands for “Really Simple Syndication” because it really is simple! An RSS feed will pick up new episodes of your podcast and automatically update major directories (the platforms where you download episodes and listen to shows). It's crucial to getting your show out. 
@@ -23,4 +25,4 @@ Once your show has been approved, you can roll out your podcast by uploading mor
 
 Your hosting service will likely track downloads, listening time, and audience demographics, depending on what they offer on various tiers. 
 
-Now that your show is hosted, let's discuss how you can build an audience.
+Now that your show is hosted, let's discuss how you can [build an audience.](https://scds.github.io/podcasting/outreach.html)
