@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Five Final Tips
+title: Five Final Tips and Contact Info
 nav_order: 9
 ---
 
