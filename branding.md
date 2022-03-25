@@ -20,7 +20,7 @@ Collectively, these three things must hook listeners by communicating a tremendo
 
 Let's look at an example of a podcast that branded itself well: Karina Longworth's Old Hollywood podcast, "You Must Rememebr This." Here's how "You Must Remember This" appears to someone scrolling through Apple Podcasts. 
 
-<img src="assets/img/YMRTScreenshot.png" alt= Screenshot of You Must Remember This’ appearance on the Apple Podcasts platform. The title is in a 1940s style font. The background is black and white draped fabric. The typography evokes early cinema. The show description reads You Must Remember This is a storytelling podcast exploring the secret and/or forgotten histories of Hollywood’s first century. width="720">
+<img src="assets/img/YMRTScreenshot.png" alt="Screenshot of You Must Remember This’ appearance on the Apple Podcasts platform. The title is in a 1940s style font. The background is black and white draped fabric. The typography evokes early cinema. The show description reads You Must Remember This is a storytelling podcast exploring the secret and/or forgotten histories of Hollywood’s first century" width="720">
 
 Let's break down why Longworth's branding works.
 
