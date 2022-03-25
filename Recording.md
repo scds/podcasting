@@ -73,4 +73,6 @@ The booths include Blue Yeti microphones. Learn to use a Blue Yeti with the vide
 
 View the original [here](https://www.youtube.com/watch?v=RftkB5g84eI).
 
+## Next Steps
+
 Now that you've recorded your first episode, it's time to [edit your audio.](https://scds.github.io/podcasting/Editing.html)
