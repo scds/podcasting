@@ -22,6 +22,19 @@ Each point in the graph above could be expanded, but here are some top tips:
 - Another option is to build a website for your show so that you can leverage the power of SEO; however, note that effectively running a website or blog takes time 
 - Community > Competition. Similar shows are your friends, not your foes. Try to make genuine connections with your peers. 
 
+## Using the Resources at the University 
+
+McMaster has a robust team of communications professionals working on increasing the visibility of the university's work. If your podcast builds on your research or is somehow involved with your role at McMaster University, use this network to your advantage.
+
+Contact the person who handles communications in your department.
+- If your department has a social media account, ask them to create a post.
+- If your department has a newsletter, ask them to feature the podcast in an issue.
+- If your department has a mailing list, write an announcement and ask them to forward it or forward it yourself if you have access to the list.
+
+You can also organize a panel or event announcing the podcast and discussing the process.
+
+Request an article for the most appropriate arm of the [McMaster Daily News](https://dailynews.mcmaster.ca/); individual departments may not have this capacity, but [Humanities](https://www.humanities.mcmaster.ca/news/), [Social Science](https://socialsciences.mcmaster.ca/news), and [Science](https://www.science.mcmaster.ca/community/news.html) at large do.
+
 ## Back to Basics
 
 However, the chart above is only 30% of the outreach pie. Around 70% of podcast listeners don’t find shows through ads or social media. They find them through recommendations from friends, family, colleagues
