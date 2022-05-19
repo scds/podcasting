@@ -30,8 +30,26 @@ Let's break down why Longworth's branding works.
 
 **Tile Image**: The typography evokes Old Hollywood films, with the cloth draping subtly suggesting a theatre curtain. It conveys its subject without the title explicitly needing to say "This is a show about cinema history." The simplicity of the image is also a point in its favour. Because these images are typically displayed in quite a small size on phones and other media players, a simple design is usually best. If anything could be improved, the colour contrast could be heighteened to ensure that everyone can clearly see the difference between the text and the background. To check the colour contrast of your own image, use this [contrast checker](https://webaim.org/resources/contrastchecker/) tool. 
 
-Take your time while branding your show. Reach out to friends and colleagues and ask for feedback on your image, logline, and title. If you don't feel that you have the skills to create an effective logo or image for your podcast, you can hire a graphic designer on a freelance basis. Many designers have portfolios on websites like [Fiverr](https://www.fiverr.com/) and [99Designs](https://99designs.ca/projects). If you work at or attend a university or college, you may want to reach out to your institution's media centre. 
+## Creating a Tile: Hire Someone or Do It Yourself?
+Graphic design is a specialized skill. When creating a tile for your podcast, you need top think about whether you want to hire someone or do it yourself. Here are the pros and cons of each approach.
 
+**Option 1: Hire Somone**
+Find a freelancer on Fiver or a similar freelancer directory ($)
+- Pro: Budget friendly. Con: Minimal communication with designer.
+For the McMaster Community, consider using the university's Media Production Services ($$)
+- Pro: Great to support our colleagues and they are professionals. Con: If you need revisions, the hourly rate will add up quickly. 
+Hire a graphic design firm ($$$)
+- Pro: Professionals know what they are doing, can help with marketing plans and other design items you may need (web banners, different sizes and formats for social media platforms, et cetera), and they will ensure you get what you want. Con: The most expensive option.
+
+**Option 2: Do It Yourself**
+Use Adobe Illustrator or Adobe Photoshop (you can access these paywalled programs at Lyons New Media in Mills Library)
+Use a free software or web-based design application like Canva, GIMP, or Inkscape. 
+If you need help, book a consultation or attend a workshop at Lyons New Media. 
+Media Help Consultations & Workshops (Lyons).
+
+## Copyright Concerns
+Make sure that you use a font and image with a commercial use license. If your show becomes profitable, this will keep you safe from lawsuits. 
+Look at websites like Pexels, Unsplash, and Wikimedia Commons. 
 
 ## Next Steps
 Now that you've branded your show, it's time to [host your files and distribute your podcast to major streaming services.](https://scds.github.io/podcasting/hosting.html)
