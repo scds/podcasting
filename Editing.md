@@ -56,7 +56,7 @@ By the end of the activity, you will know how to import, cut, split, compress, a
 
 ## Copyright Concerns
 
-Many podcasts use music at some point in the episode. If you do not have the budget to hire a composer, browse repositories like [Pixabay] (https://pixabay.com/music/search/theme/music%20for%20videos/) and the YouTube Audio Library for audio that you can legally use in your show. Note that the YouTube Audio Library cannot be linked because it is accessed through the "Creator Studio"--which simply means that you need a (free) YouTube account to access the files.
+Many podcasts use music at some point in the episode. If you do not have the budget to hire a composer, browse repositories like [Pixabay](https://pixabay.com/music/search/theme/music%20for%20videos/) and the YouTube Audio Library for audio that you can legally use in your show. Note that the YouTube Audio Library cannot be linked because it is accessed through the "Creator Studio"--which simply means that you need a (free) YouTube account to access the files.
 
 ## Next Steps
 Now that you've edited your episode, it's time to think about [branding your show.](https://scds.github.io/podcasting/branding.html)
