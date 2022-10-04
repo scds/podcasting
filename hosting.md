@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 5. Hosting 
-nav_order: 7
+nav_order: 8
 ---
 
 ## Don't be Intimidated! Hosting is Simple
