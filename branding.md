@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 4. Branding
-nav_order: 6
+nav_order: 7
 ---
 
 ## Make a Great First Impression
