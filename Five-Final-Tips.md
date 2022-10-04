@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Five Final Tips
-nav_order: 9
+nav_order: 10
 ---
 
 ## Five Final Tips
