@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2. Recording
-nav_order: 4
+nav_order: 5
 ---
 
 ## Prepare your Recording Environment
