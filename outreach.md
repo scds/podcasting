@@ -44,16 +44,7 @@ It’s simple. You create interesting and engaging material. You release it on s
 
 <img src="assets/img/PodcastMeme.png" alt="picture of a teenager eating food and laughing next to a poster of women eating food and laughing. Caption reads, what listening to a podcast feels like" width="720">
 
-This meme is silly but true. A good podcast will make a listener feel like they have a connection with you, that they enjoy spending time with you. You can cultivate this kind of relationship by treating your listener with respect. Of course, this means trying your best to produce great, interesting content. But here are two more areas to focus on:
-
-1. Consistency: If you say that you'll release new episodes on a weekly basis, do so. Consistency is key to the listener/podcaster relationship; it builds the show into your listeners' weekly routines. 
-
-2. Accessibility: Make your show an inclusive space. Create a transcript of your episodes so that everyone can access your content. 
-You can do this manually or use software that will automatically transcribe the audio, then manually correct the transcript (errors are inevitable). 
-
-Auto-Transcript Options include built-in tools in programs such as [Microsoft Word](https://shorturl.at/clqwC), [Echo360](https://echo360.ca/), [GoogleDocs](https://www.theverge.com/21368867/transcription-google-docs-live-transcribe-how-to-zoom) and [YouTube](https://www.youtube.com/), or custom transcript generation software such as [Otter AI](https://otter.ai/) and [Rev](https://www.rev.com/). An on-campus option for McMaster students is located in Lyons New Media Lab, where you can access Adobe Premiere Pro (video editing software). This software can auto transcribe audio files, and its accuracy and speed are impressive. 
-
-Additionally, use a [colour contrast checker tool](https://webaim.org/resources/contrastchecker/) while creating your branding so that everyone can read and understand your logo. 
+This meme is silly but true. A good podcast will make a listener feel like they have a connection with you, that they enjoy spending time with you. You can cultivate this kind of relationship by treating your listener with respect. Of course, this means trying your best to produce great, interesting content. If you say that you'll release new episodes on a weekly basis, do so. Consistency is key to the listener/podcaster relationship; it builds the show into your listeners' weekly routines. 
 
 ## Next Steps
 
