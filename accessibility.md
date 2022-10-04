@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6. Outreach
+title: Accessibility
 nav_order: 3
 ---
 ## Accessibility
