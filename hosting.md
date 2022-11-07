@@ -10,7 +10,7 @@ Other than editing, this is the section that intimidates people most. But gettin
 
 Your first step is creating an RSS Feed. RSS stands for “Really Simple Syndication” because it really is simple! An RSS feed will pick up new episodes of your podcast and automatically update major directories (the platforms where you download episodes and listen to shows). It's crucial to getting your show out. 
 
-While you can [code your own RSS feed](https://www.wikihow.com/Create-an-RSS-Feed), beginners will probably find it much easier to use a service. Many hosting services have free tiers, including [Acast](https://www.acast.com/), [Anchor](https://anchor.fm/), [Buzzsprout](https://www.buzzsprout.com/), [PodBean](https://www.podbean.com/), and [SoundCloud](https://soundcloud.com/). 
+While you can [code your own RSS feed](https://www.wikihow.com/Create-an-RSS-Feed), beginners will probably find it much easier to use a service. Many  hosting services have free tiers, including [Acast](https://www.acast.com/), [Anchor](https://anchor.fm/), [Buzzsprout](https://www.buzzsprout.com/), [PodBean](https://www.podbean.com/), [RSS.com](https://rss.com/), and [SoundCloud](https://soundcloud.com/). 
 
 ## Setting Up Your Show
 
