@@ -43,17 +43,6 @@ Audacity is a free audio editing software. Because of its accessibility, it's ou
 
 View the original [here](https://www.youtube.com/watch?v=ci3QnCj9nHc&t=64s).
 
-## Audacity Editing Activity
-
-Want hands-on experience with editing audio in Audacity? Complete the following activity. 
-
-First, download [Audacity](https://www.audacityteam.org/download/). 
-Second, watch Elaine's [tutorial video](https://www.youtube.com/watch?v=ci3QnCj9nHc&t=64s) and get used to navigating the program. 
-Third, download [three files](https://mcmasteru365-my.sharepoint.com/personal/westenev_mcmaster_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fwestenev%5Fmcmaster%5Fca%2FDocuments%2FWorkshops%2Fpodcasts%2Dveronica%2Fteaching%2Dand%2Dlearning%2Dmonth%2DVERSION%2Faudio%2Dfiles%2Dfor%2Dworkshop&ga=1). One is music, one is an interview, and one is a PDF guide to the activity. 
-Fourth, follow the instructions in the PDF guide. 
-
-By the end of the activity, you will know how to import, cut, split, compress, amplify, and export audio. You will also learn how to add music and adjust volume.
-
 ## Copyright Concerns
 
 Many podcasts use music at some point in the episode. If you do not have the budget to hire a composer, browse repositories like [Pixabay](https://pixabay.com/music/search/theme/music%20for%20videos/) and the YouTube Audio Library for audio that you can legally use in your show. Note that the YouTube Audio Library cannot be linked because it is accessed through the "Creator Studio"--which simply means that you need a (free) YouTube account to access the files.
