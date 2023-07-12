@@ -43,6 +43,44 @@ Audacity is a free audio editing software. Because of its accessibility, it's ou
 
 View the original [here](https://www.youtube.com/watch?v=ci3QnCj9nHc&t=64s).
 
+You can also watch three video tutorials by Veronica, which overview:
+
+- i) Audio Editing Basics (Downloading Audacity, Importing Audio, Cutting Audio, Reducing Noise, and Normalizing Audio Levels) 
+- ii) Inserting Clips (Finding Clips, Converting to MP3, Editing Clips, Inserting Clips to Your Recording) 
+- iii) Inserting Music and Exporting Your File (Finding Music, Editing Music, Fading Music In and Out, Inserting Music to Your Recording)
+
+# Video One: Audio Editing Basics
+
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/18938986-cf5c-49bd-bdb6-95864477c5ce/public"></iframe>
+
+View the original [here](https://echo360.ca/media/18938986-cf5c-49bd-bdb6-95864477c5ce/public).
+
+Links: 
+- [Download Audacity](https://www.audacityteam.org/download/)
+- [Access Files to Follow Along with this Tutorial including a Text Guide](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EhvuAQn-hcJJokJ1RXac080BM9ibG0uunWyf7QAvRApoqg?e=fDyJar)
+
+# Video Two: Inserting Clips
+
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/9ce364a5-6def-4595-9641-353846b52459/public"></iframe>
+
+View the original [here](https://echo360.ca/media/9ce364a5-6def-4595-9641-353846b52459/public)
+
+Links:
+- [MP3 Converter](https://onlinevideoconverter.com/)
+- [Access Files to Follow Along with this Tutorial including a Text Guide](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EhvuAQn-hcJJokJ1RXac080BM9ibG0uunWyf7QAvRApoqg?e=fDyJar)
+
+
+# Video Three: Inserting Music and Exporting Your File
+
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/9fc9417b-8eda-4a27-9bac-3e0d7bc3c79e/public"></iframe>
+
+View the original [here](https://echo360.ca/media/9fc9417b-8eda-4a27-9bac-3e0d7bc3c79e/public).
+
+Links: 
+- [Copyright Compliant Music](https://pixabay.com/music/)
+- [Access Files to Follow Along with this Tutorial including a Text Guide](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EhvuAQn-hcJJokJ1RXac080BM9ibG0uunWyf7QAvRApoqg?e=fDyJar)
+
+
 ## Copyright Concerns
 
 Many podcasts use music at some point in the episode. If you do not have the budget to hire a composer, browse repositories like [Pixabay](https://pixabay.com/music/search/theme/music%20for%20videos/) and the YouTube Audio Library for audio that you can legally use in your show. Note that the YouTube Audio Library cannot be linked because it is accessed through the "Creator Studio"--which simply means that you need a (free) YouTube account to access the files.
