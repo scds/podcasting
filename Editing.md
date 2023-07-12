@@ -49,7 +49,7 @@ You can also watch three video tutorials by Veronica, which overview:
 - ii) Inserting Clips (Finding Clips, Converting to MP3, Editing Clips, Inserting Clips to Your Recording) 
 - iii) Inserting Music and Exporting Your File (Finding Music, Editing Music, Fading Music In and Out, Inserting Music to Your Recording)
 
-# Video One: Audio Editing Basics
+## Video One: Audio Editing Basics
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/18938986-cf5c-49bd-bdb6-95864477c5ce/public"></iframe>
 
@@ -59,7 +59,7 @@ Links:
 - [Download Audacity](https://www.audacityteam.org/download/)
 - [Access Files to Follow Along with this Tutorial including a Text Guide](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EhvuAQn-hcJJokJ1RXac080BM9ibG0uunWyf7QAvRApoqg?e=fDyJar)
 
-# Video Two: Inserting Clips
+## Video Two: Inserting Clips
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/9ce364a5-6def-4595-9641-353846b52459/public"></iframe>
 
@@ -70,7 +70,7 @@ Links:
 - [Access Files to Follow Along with this Tutorial including a Text Guide](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/littvs_mcmaster_ca/EhvuAQn-hcJJokJ1RXac080BM9ibG0uunWyf7QAvRApoqg?e=fDyJar)
 
 
-# Video Three: Inserting Music and Exporting Your File
+## Video Three: Inserting Music and Exporting Your File
 
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/9fc9417b-8eda-4a27-9bac-3e0d7bc3c79e/public"></iframe>
 
