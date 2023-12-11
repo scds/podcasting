@@ -4,14 +4,13 @@ title: What is a Podcast?
 nav_order: 2
 ---
 
-
 # What is a Podcast? 
 
 "A digital audio file of speech, music, broadcast material, etc., made available on the internet for downloading to a computer or portable media player; a series of such files, new instalments of which can be received by subscribers automatically." - Oxford English Dictionary
 
 The OED covers the basic definition of a podcast, but the best way to learn about podcasts is to experience one. We've collected some of our favourites below: 
 
-<img src="assets/img/PodcastTiles.jpg" alt="graphic collateral for podcasts listed below arranged alphabetically in three rows." width="720">
+<img src="assets/img/PodcastTiles.jpg" alt="graphic collateral for podcasts listed below arranged alphabetically in three rows." width="100%">
 
 - [1619](https://www.nytimes.com/2020/01/23/podcasts/1619-podcast.html)
 - [99% Invisible](https://99percentinvisible.org/) 
@@ -29,7 +28,7 @@ The OED covers the basic definition of a podcast, but the best way to learn abou
 
 As you'll hear, podcasts can encompass a wide variety of material, but across subjects, podcasts use clear language and a conversational tone. They are designed to be understood by a broad group of listeners.
 
-# Why Should I Make a Podcast?
+## Why Should I Make a Podcast?
 Here are five reasons to make a podcast: 
 
 1. They're cheap
@@ -47,5 +46,3 @@ Here are five reasons to make a podcast:
 5. They're fun and fulfilling
 - Self-explanatory. Creating a podcast is engaging and enjoyable. You'll connect with kindred spirits, learn new skills, and more. 
 
-## Next Steps
-Interested? Proceed to the ["Planning"](https://scds.github.io/podcasting/planning.html) page to start planning your own show. 

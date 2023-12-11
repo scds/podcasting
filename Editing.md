@@ -4,7 +4,7 @@ title: 3. Editing
 nav_order: 6
 ---
 
-## Before Editing Checklist
+# Before Editing Checklist
 
 Before you begin to edit your podcast, there are a few things you should consider:
 - Transfer your audio files to your computer and place them in a folder.
@@ -18,7 +18,7 @@ Before you begin to edit your podcast, there are a few things you should conside
 
 There are plenty of audio editing tools that you can use. Consult the graph below to choose a software package that will work for you. 
 
-<img src="assets/img/SoftwareChart.jpg" alt="Chart with three columns and four rows. The three softwares discussed are Reaper, Audacity, and Adobe Audition. All work on Mac and Windows, Audacity also works on Linux. Audacity is available for free and at Lyons New Media Centre. Audition is only available at Lyons. Reaper can be accessed at Lyons and through a free 60 day trial." width="720">
+<img src="assets/img/SoftwareChart.jpg" alt="Chart with three columns and four rows. The three softwares discussed are Reaper, Audacity, and Adobe Audition. All work on Mac and Windows, Audacity also works on Linux. Audacity is available for free and at Lyons New Media Centre. Audition is only available at Lyons. Reaper can be accessed at Lyons and through a free 60 day trial." width="100%">
 
 Links to resources in the chart:
 
@@ -39,7 +39,7 @@ Links to resources in the chart:
 
 Audacity is a free audio editing software. Because of its accessibility, it's our preferred platform. Watch the video below to learn how to use the program. Elaine will show you how to cut out unwanted noises, reduce background noise, add background music, and more. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ci3QnCj9nHc&t=64s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="416" src="https://www.youtube.com/embed/ci3QnCj9nHc?si=IMmxj5qxXZRxM2_R&amp;start=64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 View the original [here](https://www.youtube.com/watch?v=ci3QnCj9nHc&t=64s).
 
@@ -51,7 +51,7 @@ You can also watch three video tutorials by Veronica, which overview:
 
 ## Video One: Audio Editing Basics
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/18938986-cf5c-49bd-bdb6-95864477c5ce/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/18938986-cf5c-49bd-bdb6-95864477c5ce/public"></iframe>
 
 View the original [here](https://echo360.ca/media/18938986-cf5c-49bd-bdb6-95864477c5ce/public).
 
@@ -61,7 +61,7 @@ Links:
 
 ## Video Two: Inserting Clips
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/9ce364a5-6def-4595-9641-353846b52459/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9ce364a5-6def-4595-9641-353846b52459/public"></iframe>
 
 View the original [here](https://echo360.ca/media/9ce364a5-6def-4595-9641-353846b52459/public)
 
@@ -72,7 +72,7 @@ Links:
 
 ## Video Three: Inserting Music and Exporting Your File
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/9fc9417b-8eda-4a27-9bac-3e0d7bc3c79e/public"></iframe>
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/9fc9417b-8eda-4a27-9bac-3e0d7bc3c79e/public"></iframe>
 
 View the original [here](https://echo360.ca/media/9fc9417b-8eda-4a27-9bac-3e0d7bc3c79e/public).
 
@@ -85,5 +85,3 @@ Links:
 
 Many podcasts use music at some point in the episode. If you do not have the budget to hire a composer, browse repositories like [Pixabay](https://pixabay.com/music/search/theme/music%20for%20videos/) and the YouTube Audio Library for audio that you can legally use in your show. Note that the YouTube Audio Library cannot be linked because it is accessed through the "Creator Studio"--which simply means that you need a (free) YouTube account to access the files.
 
-## Next Steps
-Now that you've edited your episode, it's time to think about [branding your show.](https://scds.github.io/podcasting/branding.html)

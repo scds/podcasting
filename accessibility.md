@@ -3,7 +3,7 @@ layout: default
 title: Accessibility
 nav_order: 3
 ---
-## Accessibility
+# Accessibility
 
 Make your show an inclusive space. Create a transcript of your episodes so that everyone can access your content. 
 

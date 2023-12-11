@@ -4,12 +4,11 @@ title: 1. Planning
 nav_order: 4
 ---
 
-
 # Coming up with a Topic
 
 To begin the planning process, you'll want to chose a topic. The first step to figuring out a topic is having a good ol' brainstorming session. 
 
-<img src="assets/img/Brainstorm.jpg" alt="Artistic rendering of a brainstorm; brain and bolts of energy." width="720">
+<img src="assets/img/Brainstorm.jpg" alt="Artistic rendering of a brainstorm; brain and bolts of energy." width="100%">
 
 Here are some prompts to get you started.
 - What do you find yourself thinking about a lot?
@@ -24,7 +23,7 @@ After you brainstorm a general topic, you will want to refine it a bit and find 
 
 Once you know your topic and angle, then you'll want to get an idea of your ideal listener. This could also be thought of as your target audience or a user persona.
 
-<img src="assets/img/IdealListener.jpg" alt="Simple drawing of a person with headphones on." width="720">
+<img src="assets/img/IdealListener.jpg" alt="Simple drawing of a person with headphones on." width="100%">
 
 Is your ideal listener an academic? A member of the general public audience? What’s the age of your listener, the gender, the education?
 
@@ -43,7 +42,7 @@ Once you have an idea of the show you want to make and your ideal listener, keep
 
 Planning a podcast means understanding the way individual segments relate to the entire show at large. Consider this chart, which breaks down the different levels of a podcast. 
 
-<img src="assets/img/Structure1.jpg" alt="Graphic that shows a Podcast at the top, then a Season, then an Episode, then a Segment at the bottom." width="720">
+<img src="assets/img/Structure1.jpg" alt="Graphic that shows a Podcast at the top, then a Season, then an Episode, then a Segment at the bottom." width="100%">
 
 Each podcast is made of seasons (if applicable), which are in turn composed of linked episodes. These episodes are, in turn, made up of segments. 
 
@@ -51,13 +50,13 @@ You can think of a podcast episode’s segments the way you think about an essay
 
 Shows typically begin with an introduction, followed by the body of the show, then end with a conclusion. 
 
-<img src="assets/img/Structure2.jpg" alt="Graphic that shows the chart above, then zooms into the segment section and adds a further chart that reads Introduction, Body, Conclusion." width="720">
+<img src="assets/img/Structure2.jpg" alt="Graphic that shows the chart above, then zooms into the segment section and adds a further chart that reads Introduction, Body, Conclusion." width="100%">
 
 You can get creative with all these elements, but the most diversity is usually found in the body, so let’s zoom in on that. 
 
 The body of a podcast may be a discussion between co-hosts, a formal interview, a debate, a scripted monologue, or something else entirely.
 
-<img src="assets/img/Structure3.jpg" alt="Graphic that shows the two charts described above, then zooms into the Body section and adds a further chart that reads subdivides the Body into bullet points including Guided discussion between co-hosts, formal interview, debate, scripted monologue, something else entirely." width="720">
+<img src="assets/img/Structure3.jpg" alt="Graphic that shows the two charts described above, then zooms into the Body section and adds a further chart that reads subdivides the Body into bullet points including Guided discussion between co-hosts, formal interview, debate, scripted monologue, something else entirely." width="100%">
 
 Within each of these formats, there are even more sub-categories. If you’re doing a guided discussion, what topics will you cover and in what order? If an interview, you have to plan your questions ahead of time and make sure they flow. If a debate, which side goes first? Will you include rebuttals? And so on and so forth.
 
@@ -74,7 +73,3 @@ Tips:
 - It might be helpful to mark up your script to indicate where you emphasize words, leave pauses, mark inflections.
 - Be descriptive with your words, as this will help listeners visualize what you're talking about. 
 - Remember, podcasting is an audio medium. Be selective about topics that rely on visual media. 
-
-
-## Next Steps
-Now that you've planned your show, it's time to [record your first episode.](https://scds.github.io/podcasting/Recording.html) 

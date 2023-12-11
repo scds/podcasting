@@ -4,7 +4,7 @@ title: 4. Branding
 nav_order: 7
 ---
 
-## Make a Great First Impression
+# Make a Great First Impression
 
 Most of the time, new listeners don’t encounter podcasts as audio. They encounter them visually and textually through three things:
 
@@ -20,7 +20,7 @@ Collectively, these three things must hook listeners by communicating a tremendo
 
 Let's look at an example of a podcast that branded itself well: Karina Longworth's Old Hollywood podcast, "You Must Rememebr This." Here's how "You Must Remember This" appears to someone scrolling through Apple Podcasts. 
 
-<img src="assets/img/YMRTScreenshot.png" alt="Screenshot of You Must Remember This’ appearance on the Apple Podcasts platform. The title is in a 1940s style font. The background is black and white draped fabric. The typography evokes early cinema. The show description reads You Must Remember This is a storytelling podcast exploring the secret and/or forgotten histories of Hollywood’s first century" width="720">
+<img src="assets/img/YMRTScreenshot.png" alt="Screenshot of You Must Remember This’ appearance on the Apple Podcasts platform. The title is in a 1940s style font. The background is black and white draped fabric. The typography evokes early cinema. The show description reads You Must Remember This is a storytelling podcast exploring the secret and/or forgotten histories of Hollywood’s first century" width="100%">
 
 Let's break down why Longworth's branding works.
 
@@ -33,7 +33,7 @@ Let's break down why Longworth's branding works.
 ## Creating a Tile: Hire Someone or Do It Yourself?
 Graphic design is a specialized skill. When creating a tile for your podcast, you need top think about whether you want to hire someone or do it yourself. Here are the pros and cons of each approach.
 
-**Option 1: Hire Somone**
+### Option 1: Hire Somone
 Find a freelancer on Fiver or a similar freelancer directory ($)
 - Pro: Budget friendly. Con: Minimal communication with designer.
 For the McMaster Community, consider using the university's Media Production Services ($$)
@@ -41,15 +41,12 @@ For the McMaster Community, consider using the university's Media Production Ser
 Hire a graphic design firm ($$$)
 - Pro: Professionals know what they are doing, can help with marketing plans and other design items you may need (web banners, different sizes and formats for social media platforms, et cetera), and they will ensure you get what you want. Con: The most expensive option.
 
-**Option 2: Do It Yourself**
-Use Adobe Illustrator or Adobe Photoshop (you can access these paywalled programs at Lyons New Media in Mills Library)
-Use a free software or web-based design application like Canva, GIMP, or Inkscape. 
-If you need help, book a consultation or attend a workshop at Lyons New Media. 
+### Option 2: Do It Yourself
+Use Adobe Illustrator or Adobe Photoshop (you can access these paywalled programs at Lyons New Media in Mills Library)  
+Use a free software or web-based design application like Canva, GIMP, or Inkscape.   
+If you need help, book a consultation or attend a workshop at Lyons New Media.   
 Media Help Consultations & Workshops (Lyons).
 
 ## Copyright Concerns
 Make sure that you use a font and image with a commercial use license. If your show becomes profitable, this will keep you safe from lawsuits. 
 Look at websites like Pexels, Unsplash, and Wikimedia Commons. 
-
-## Next Steps
-Now that you've branded your show, it's time to [host your files and distribute your podcast to major streaming services.](https://scds.github.io/podcasting/hosting.html)
