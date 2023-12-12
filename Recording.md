@@ -4,7 +4,7 @@ title: 2. Recording
 nav_order: 5
 ---
 
-# Prepare your Recording Environment
+## Prepare your Recording Environment
 
 Recording professional-sounding audio at home is possible! Here are some tips from Elaine Westenhoefer from McMaster University's Lyons New Media Centre:
 

@@ -4,7 +4,7 @@ title: 3. Editing
 nav_order: 6
 ---
 
-# Before Editing Checklist
+## Before Editing Checklist
 
 Before you begin to edit your podcast, there are a few things you should consider:
 - Transfer your audio files to your computer and place them in a folder.

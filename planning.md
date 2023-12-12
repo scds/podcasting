@@ -4,7 +4,7 @@ title: 1. Planning
 nav_order: 4
 ---
 
-# Coming up with a Topic
+## Coming up with a Topic
 
 To begin the planning process, you'll want to chose a topic. The first step to figuring out a topic is having a good ol' brainstorming session. 
 
